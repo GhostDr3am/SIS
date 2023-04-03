@@ -167,7 +167,7 @@ if (!isset($_SESSION["login"])) {
     <div class="container-fluid">
       <footer class="pt-4 my-md-4 pt-md-3 border-top">
         <div class="row">
-          <div class="col-12 col-md center">&copy; 2022 - <a class="text-info" href="https://rony100801.github.io">Created By Rony Setiawan</a>
+          <div class="col-12 col-md center">&copy; 2022 - <a class="text-info" href="https://lyncx4rc13.github.io">Created By Dedi Supriadi</a>
           </div>
         </div>
       </footer>
